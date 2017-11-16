@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">SchoolMap</string>
+    <string name="string_1">学生生活广场\n\n(北区大食堂)</string>
+    <string name="string_2">清月斋\n\n北区清真食堂</string>
+    <string name="string_3">行政楼\n\n老师办公室，财务处</string>
+    <string name="string_4">圆弧报告厅\n\n很多报告都是在这里的</string>
+    <string name="string_5">露天游泳池\n\n游泳课夏季开课，平时凭一卡通也可以进哦(只要它有水)\n\n体育馆\n\n侧边有一个健身房，喜欢健身的可以去看看</string>
+    <string name="string_6">南区大食堂\n\n时空记忆\n\n不论吃的还是装修都非常精致，强烈推荐哦</string>
+    <string name="string_7">南区清真食堂</string>
+    <string name="string_8">民族团结碑\n\n坐落在梦云湖旁边的民族团结碑，碑文内容有新时代特点而具有鲜明的革命性，是党的民族政策在边疆取得伟大胜利的标志，是具有重要历史价值和爱国主义教育价值的民族革命文物</string>
+    <string name="string_9">图书馆\n\n凭一卡通既可以借书，占地40000余平方米，馆藏丰富</string>
+    <string name="string_10">腾飞广场</string>
+    <string name="string_11">南大门\n\n学校正门</string>
+    <string name="string_12">艺苑餐厅</string>
 </resources>
